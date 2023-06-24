@@ -4,6 +4,7 @@
   <artifactId>Login_page</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+</project>
   <build>
     <finalName>Login_page</finalName>
 <pluginManagement>
@@ -39,5 +40,3 @@
      </plugins>
   </pluginManagement>
 </build>
-
-</project>
